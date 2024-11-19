@@ -100,12 +100,15 @@ namespace InventoryManagement
                 }
             }
         }
-
-        private void btnRefresh_Click(object sender, EventArgs e)
+        private void ClearInputs()
         {
             txtMemberID.Clear();
             cbType.SelectedIndex = -1;
             cbStatus.SelectedIndex = -1;
+        }
+        private void btnRefresh_Click(object sender, EventArgs e)
+        {
+            ClearInputs();
             ShowData();
         }
 
@@ -127,6 +130,7 @@ namespace InventoryManagement
 
                     if (rowsAffected > 0)
                     {
+                        ClearInputs();
                         ShowData();
                     }
                     else
@@ -187,7 +191,7 @@ namespace InventoryManagement
                 {
                     MessageBox.Show("Cập nhật không thành công", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
-
+                ClearInputs();
                 ShowData();
             }
         }

@@ -134,7 +134,7 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel2.Location = new System.Drawing.Point(0, 70);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(200, 460);
+            this.panel2.Size = new System.Drawing.Size(205, 460);
             this.panel2.TabIndex = 5;
             // 
             // btnBestSales
@@ -142,7 +142,7 @@
             this.btnBestSales.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBestSales.Location = new System.Drawing.Point(12, 354);
             this.btnBestSales.Name = "btnBestSales";
-            this.btnBestSales.Size = new System.Drawing.Size(169, 37);
+            this.btnBestSales.Size = new System.Drawing.Size(175, 37);
             this.btnBestSales.TabIndex = 15;
             this.btnBestSales.Text = "Bán chạy";
             this.btnBestSales.UseVisualStyleBackColor = true;
@@ -153,7 +153,7 @@
             this.btnThongKe.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThongKe.Location = new System.Drawing.Point(12, 311);
             this.btnThongKe.Name = "btnThongKe";
-            this.btnThongKe.Size = new System.Drawing.Size(169, 37);
+            this.btnThongKe.Size = new System.Drawing.Size(175, 37);
             this.btnThongKe.TabIndex = 14;
             this.btnThongKe.Text = "Thống kê";
             this.btnThongKe.UseVisualStyleBackColor = true;
@@ -164,7 +164,7 @@
             this.btnCheckDelivery.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCheckDelivery.Location = new System.Drawing.Point(12, 268);
             this.btnCheckDelivery.Name = "btnCheckDelivery";
-            this.btnCheckDelivery.Size = new System.Drawing.Size(169, 37);
+            this.btnCheckDelivery.Size = new System.Drawing.Size(175, 37);
             this.btnCheckDelivery.TabIndex = 13;
             this.btnCheckDelivery.Text = "Xem đơn xuất";
             this.btnCheckDelivery.UseVisualStyleBackColor = true;
@@ -175,7 +175,7 @@
             this.btnDelivery.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDelivery.Location = new System.Drawing.Point(12, 225);
             this.btnDelivery.Name = "btnDelivery";
-            this.btnDelivery.Size = new System.Drawing.Size(169, 37);
+            this.btnDelivery.Size = new System.Drawing.Size(175, 37);
             this.btnDelivery.TabIndex = 12;
             this.btnDelivery.Text = "Lập đơn xuất";
             this.btnDelivery.UseVisualStyleBackColor = true;
@@ -186,7 +186,7 @@
             this.btnLoaiSP.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLoaiSP.Location = new System.Drawing.Point(12, 53);
             this.btnLoaiSP.Name = "btnLoaiSP";
-            this.btnLoaiSP.Size = new System.Drawing.Size(169, 37);
+            this.btnLoaiSP.Size = new System.Drawing.Size(175, 37);
             this.btnLoaiSP.TabIndex = 11;
             this.btnLoaiSP.Text = "Loại sản phẩm";
             this.btnLoaiSP.UseVisualStyleBackColor = true;
@@ -197,7 +197,7 @@
             this.btnNCC.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNCC.Location = new System.Drawing.Point(12, 96);
             this.btnNCC.Name = "btnNCC";
-            this.btnNCC.Size = new System.Drawing.Size(169, 37);
+            this.btnNCC.Size = new System.Drawing.Size(175, 37);
             this.btnNCC.TabIndex = 10;
             this.btnNCC.Text = "Nhà cung cấp";
             this.btnNCC.UseVisualStyleBackColor = true;
@@ -219,7 +219,7 @@
             this.btnInventory.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnInventory.Location = new System.Drawing.Point(12, 182);
             this.btnInventory.Name = "btnInventory";
-            this.btnInventory.Size = new System.Drawing.Size(169, 37);
+            this.btnInventory.Size = new System.Drawing.Size(175, 37);
             this.btnInventory.TabIndex = 6;
             this.btnInventory.Text = "Đơn nhập";
             this.btnInventory.UseVisualStyleBackColor = true;
@@ -230,7 +230,7 @@
             this.btnCustomer.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCustomer.Location = new System.Drawing.Point(12, 139);
             this.btnCustomer.Name = "btnCustomer";
-            this.btnCustomer.Size = new System.Drawing.Size(169, 37);
+            this.btnCustomer.Size = new System.Drawing.Size(175, 37);
             this.btnCustomer.TabIndex = 4;
             this.btnCustomer.Text = "Khách hàng";
             this.btnCustomer.UseVisualStyleBackColor = true;
@@ -241,7 +241,7 @@
             this.btnProduct.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnProduct.Location = new System.Drawing.Point(12, 6);
             this.btnProduct.Name = "btnProduct";
-            this.btnProduct.Size = new System.Drawing.Size(169, 37);
+            this.btnProduct.Size = new System.Drawing.Size(175, 37);
             this.btnProduct.TabIndex = 3;
             this.btnProduct.Text = "Sản phẩm";
             this.btnProduct.UseVisualStyleBackColor = true;
